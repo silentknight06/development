@@ -1,0 +1,162 @@
+/// this is created by me (silentknight)////////////////////////////////////////////////////////////////////////
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>recised</title>
+</head>
+<body>
+<header>
+	   <h1>Already Registered ? <a href="google.com">  LOGIN</a></h1> 
+       <label for="deepak"> Email</label>
+        <input type="email" name="Email" id="deepak" placeholder="abc@gmail.com">
+        <label for="deepak1"> pasword</label>
+        <input type="pasword" name="Email" id="deepak1" >
+</header>
+
+
+    <hr>
+
+
+<section>
+
+    <h3> <a href="google.com"> Coding ninjas Blog</a>
+    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000001395.png"> </h3>
+</section>
+
+<hr>
+ <br>
+ <br>
+
+
+
+<section>
+	<h1> REGISTRATION </h1>
+
+   <form action="" method="post">
+   	<table>
+   		
+    <tr>
+          <td> 
+          	<label for="dk"> First Name</label> <br><input type="text" name="text" id="dk">
+            </td>
+             <td> 
+          	<label for="dk1"> Last nmae</label> <br> <span> <input type="text" name="text" id="dk1"> </span>
+           </td>
+     </tr>
+
+
+     <tr>
+     	<td rowspan="3">  <label> CUrent ddress </label> </td>
+     	<td> <label> Flat /house</label> </td> 
+     	<td>  <input type="text" name="flat"> </td>
+
+     </tr>
+
+   <tr>
+   	<td>  <label> Locality</label>  </td>
+   	<td>    <input type="text" > </td>
+   </tr>
+   
+   <tr>
+   	<td>  <label> City</label> </td>
+   	<td>  <input type="rezt" > </td>
+   </tr>
+
+   	</table>
+  <h1>
+  	Is Currebt address and Permanent address same? 
+  	<span> <input type="radio" name="response" value="yes" checked>  yes <input type="radio" name="response" value="no"> NO
+  	 </span>
+  </h1>
+
+<table>
+	<tr>
+		<td> <label> Email</label> </td>
+		<td> <input type="email" name="Email" placeholder="abc@gmial.com"> </td>
+	</tr>
+	<tr>
+		<td> <label> pasword</label> </td>
+		<td> <input type="pasword" name="Email" > </td>
+	</tr>
+</table>
+
+<br>  
+<br>
+<br> 
+<br> 
+
+<button type="submit"> registration</button>
+ <br><br><br><br><br>
+   </form>
+
+</section>
+
+
+</body>
+</html>
+
+
+
+/////////////////////////////////////////////// this is written by other .....................................................................
+
+
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <body>
+    <header>
+      <h2>Already Registered? <span><a href="">LOGIN </a></span></h2>
+      <!-- image to be used:
+      https://ninjasfiles.s3.amazonaws.com/0000000000001395.png -->
+
+      <form action="" method="post">
+<label> <b>Email </b></label><input type="email" placeholder="abc@gmail.com"></input
+<span><label><b>Passward </b></label><span><input type="password"></input></span></span>
+</form>
+    </header>
+    <hr>
+
+    <br />
+    <br />
+
+    <main>
+      <section>
+        <h3><span><a href="">Cdoing Ninjas Blogs</a></span><div><img src="https://ninjasfiles.s3.amazonaws.com/0000000000001395.png"</div></h3>
+      </section>
+      <hr>
+
+      <br />
+      <br />
+
+      <section>
+        <h2><u>REGISTRATION</u></h2>
+
+        <form action="" method="post">
+            <table>   <tr><td><label>First Name: </label><input type="text"></input></td>
+          <td>  <label>Last Name: </label><span><input type="text"></input></span></td>
+            </tr>
+       
+            <tr><td rowspan="3"><label>Current Address:</label>
+              <td><label>Flat No/House No</lable></td><td><input type="text"></input></td>
+          </tr>
+          <tr><td><label>Locality  </lable></td><td><input type="text"></input></td></tr>
+          <tr><td><label>City </lable></td><td><input type="text"></input></td></tr>
+          </table> <h1>Is Currebt address and Permanent address same?<span><input type="radio" name="response" value="yes" checked>Yes</input><input type="radio"  name="response" value="no">No</input></span></h1>
+        
+          <table> <tr> <th><label>Email</label></td><td><input type="email" placeholder="abc@gmail.com"></th></tr>
+    <tr><th></input><label>password</label></td><td><input type="password" ></input></th>
+    </tr> 
+  <tr></tr> 
+</table>
+     <br><br> <button type="submit">REGISTRATION</button>  
+      <br><br><br><br><br></form>
+
+
+      </section>
+    </main>
+  </body>
+</html>
